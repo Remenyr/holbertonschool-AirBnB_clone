@@ -121,17 +121,17 @@ $<br>
 
 | File Name  |  Description |
 | ------------ | ------------ |
-|[README.md](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/README.md "README.md")   |	A description of the Holberton AirBnB Project   |
-|[AUTHORS](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/AUTHORS "AUTHORS")  |A listing of the project contributors   |
-|[console.py](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/console.py "console.py")   |The program to launch the HBNB console   |
-|[basemodel.py](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/base_model.py "basemodel.py")   |Defines the BaseModel Class   |
-|[user.py ](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/user.py "user.py ")  |Defines the User Class, a subclass of BaseModel   |
-|[city.py](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/city.py "city.py")   |	Defines the City Class, a subclass of BaseModel   |
-|[state.py](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/state.py "state.py")   |	Defines the User Class, a subclass of BaseModel   |
-|[amenity.py](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/amenity.py "amenity.py")   |Defines the Amenity Class, a subclass of BaseModel   |
-|[review.py](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/review.py "review.py")   |Defines the Review Class, a subclass of BaseModel   |
-|[place.py](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/place.py "place.py")   |	Defines the Place Class, a subclass of BaseModel   |
-|[tests](http://https://github.com/cestrad5/holbertonschool-AirBnB_clone/tree/main/tests "tests")   |	The test directory containing the unittest files for each Class   |
+|[README.md](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/README.md "README.md")   |	A description of the Holberton AirBnB Project   |
+|[AUTHORS](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/AUTHORS "AUTHORS")  |A listing of the project contributors   |
+|[console.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/console.py "console.py")   |The program to launch the HBNB console   |
+|[basemodel.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/base_model.py "basemodel.py")   |Defines the BaseModel Class   |
+|[user.py ](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/user.py "user.py ")  |Defines the User Class, a subclass of BaseModel   |
+|[city.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/city.py "city.py")   |	Defines the City Class, a subclass of BaseModel   |
+|[state.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/state.py "state.py")   |	Defines the User Class, a subclass of BaseModel   |
+|[amenity.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/amenity.py "amenity.py")   |Defines the Amenity Class, a subclass of BaseModel   |
+|[review.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/review.py "review.py")   |Defines the Review Class, a subclass of BaseModel   |
+|[place.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/place.py "place.py")   |	Defines the Place Class, a subclass of BaseModel   |
+|[tests](https://github.com/cestrad5/holbertonschool-AirBnB_clone/tree/main/tests "tests")   |	The test directory containing the unittest files for each Class   |
 
 ## Authors
 - Camilo Estrada - <cestrad5@gmail.com>
