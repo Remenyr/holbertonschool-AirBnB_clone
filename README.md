@@ -76,7 +76,7 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 |quit   |quit   |exits   |
 
 ## Installation
-git clone https://github.com/NottSr/holbertonschool-AirBnB_clone.git<br>
+git clone https://github.com/cestrad5/holbertonschool-AirBnB_clone.git<br>
 cd holbertonschool-AirBnB_clone
 
 ## Usage
