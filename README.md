@@ -76,46 +76,46 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 |quit   |quit   |exits   |
 
 ## Installation
-git clone https://github.com/NottSr/holbertonschool-AirBnB_clone.git
+git clone https://github.com/NottSr/holbertonschool-AirBnB_clone.git<br>
 cd holbertonschool-AirBnB_clone
 
 ## Usage
 
 **Interactive Mode**
 
-$ ./console.py
-(hbnb) help
+$ ./console.py<br>
+(hbnb) help<br>
 
 ##### ###### Documented commands (type help <topic>):
-========================================
-EOF  help  quit
+========================================<br>
+EOF  help  quit<br>
 
-(hbnb)
-(hbnb)
-(hbnb) quit
-$
+(hbnb)<br>
+(hbnb)<br>
+(hbnb) quit<br>
+$<br>
 
 **Non-Interactive Mode**
 
-$ echo "help" | ./console.py
-(hbnb)
+$ echo "help" | ./console.py<br>
+(hbnb)<br>
 
 ##### ###### DOCUMENTED COMMANDS (TYPE HELP <TOPIC>):
-========================================
-EOF  help  quit
-(hbnb)
-$
-$ cat test_help
-help
-$
-$ cat test_help | ./console.py
-(hbnb)
+========================================<br>
+EOF  help  quit<br>
+(hbnb)<br>
+$<br>
+$ cat test_help<br>
+help<br>
+$<br>
+$ cat test_help | ./console.py<br>
+(hbnb)<br>
 
 ##### ###### Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-(hbnb)
-$
+========================================<br>
+EOF  help  quit<br>
+(hbnb)<br>
+$<br>
 
 ## Files
 
