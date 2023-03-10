@@ -126,6 +126,7 @@ $<br>
 |[console.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/console.py "console.py")   |The program to launch the HBNB console   |
 |[basemodel.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/base_model.py "basemodel.py")   |Defines the BaseModel Class   |
 |[user.py ](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/user.py "user.py ")  |Defines the User Class, a subclass of BaseModel   |
+|[file.storage.py ](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/engine/file_storage.py "file.storage.py ") | Defines the FileStorage Class & handles the database  |
 |[city.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/city.py "city.py")   |	Defines the City Class, a subclass of BaseModel   |
 |[state.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/state.py "state.py")   |	Defines the User Class, a subclass of BaseModel   |
 |[amenity.py](https://github.com/cestrad5/holbertonschool-AirBnB_clone/blob/main/models/amenity.py "amenity.py")   |Defines the Amenity Class, a subclass of BaseModel   |
