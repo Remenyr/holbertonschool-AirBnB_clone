@@ -1,12 +1,5 @@
 # Project name: AirBnB cloneProject name: AirBnB clone
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-
 ## First step: Write a command interpreter to manage your AirBnB objects.First step: Write a command interpreter to manage your AirBnB objects.
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
 
@@ -17,7 +10,7 @@ Each task is linked and will help you to:
 - create the first abstracted storage engine of the project: File storage.
 - create all unittests to validate all our classes and storage engine
 
-## What’s a command interpreter?
+## What's a command interpreter?
 Do you remember the Shell? It’s exactly the same but limited to a specific use-case. In our case, we want to be able to manage the objects of our project:
 - Create a new object (ex: a new User or a new Place)
 - Retrieve an object from a file, a database etc…
@@ -25,7 +18,7 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 - Update attributes of an object
 - Destroy an object
 
-## Learning ObjectivesLearning Objectives
+## Learning Objectives
 - How to create a Python package
 - How to create a command interpreter in Python using the cmd module
 - What is Unit testing and how to implement it in a large project
@@ -51,7 +44,7 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 - All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
 - A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 
-## Python Unit TestsPython Unit Tests
+## Python Unit Tests
 
 - Allowed editors: vi, vim, emacs
 - All your files should end with a new line
@@ -82,18 +75,18 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 |count   |User.count()   |returns count of objects in specified class   |
 |quit   |quit   |exits   |
 
-## InstallationInstallation
+## Installation
 git clone https://github.com/NottSr/holbertonschool-AirBnB_clone.git
 cd holbertonschool-AirBnB_clone
 
-## UsageUsage
+## Usage
 
 **Interactive Mode**
 
 $ ./console.py
 (hbnb) help
 
-Documented commands (type help <topic>):
+##### ###### Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
 
@@ -107,7 +100,7 @@ $
 $ echo "help" | ./console.py
 (hbnb)
 
-DOCUMENTED COMMANDS (TYPE HELP <TOPIC>):
+##### #### ##### ###### ##### DOCUMENTED COMMANDS (TYPE HELP <TOPIC>):
 ========================================
 EOF  help  quit
 (hbnb)
@@ -124,7 +117,7 @@ EOF  help  quit
 (hbnb)
 $
 
-## FilesFiles
+## Files
 
 | File Name  |  Description |
 | ------------ | ------------ |
