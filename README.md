@@ -100,7 +100,7 @@ $
 $ echo "help" | ./console.py
 (hbnb)
 
-##### #### ##### ###### ##### DOCUMENTED COMMANDS (TYPE HELP <TOPIC>):
+##### ###### DOCUMENTED COMMANDS (TYPE HELP <TOPIC>):
 ========================================
 EOF  help  quit
 (hbnb)
@@ -111,7 +111,7 @@ $
 $ cat test_help | ./console.py
 (hbnb)
 
-Documented commands (type help <topic>):
+##### ###### Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
 (hbnb)
