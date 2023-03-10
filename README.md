@@ -136,4 +136,4 @@ $<br>
 
 ## Authors
 - Camilo Estrada - <cestrad5@gmail.com>
-- Luis Alejandro Puerta - <puertaalejo02@gmail.com>:
+- Luis Alejandro Puerta - <puertaalejo02@gmail.com>
